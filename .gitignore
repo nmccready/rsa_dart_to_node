@@ -1,0 +1,9 @@
+vendor
+tmp
+node_modules
+.DS_Store
+.vscode
+*.log
+.prettierrc.js
+
+.dart_tool

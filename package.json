@@ -1,0 +1,11 @@
+{
+  "name": "rsa_dart_to_node",
+  "version": "0.0.1",
+  "description": "simple scripts to test rsa public to private keys encrypt / decrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas McCready",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+name: rsa_dart_to_node
+description: attempt to encrypt via public key from dart
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  encrypt: ^5.0.0
